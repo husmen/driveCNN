@@ -17,7 +17,7 @@ TODO
 
 <a name="fn3">[3]</a>: [Autonomous Vehicle Control: End-to-end Learning in Simulated Urban Environments](https://arxiv.org/abs/1905.06712)
 
-<a name="fn4">[4]</a>: [Distributed Deep Reinforcement Learning for Autonomous Driving](https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/DistributedRL)
+<a name="fn4">[4]</a>: Reinforcement Learning for Autonomous Driving | [Source 1](https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/DistributedRL), [Source 2](https://pdfs.semanticscholar.org/0044/0fbe53b0b099a7fa1a4714caf401c8663019.pdf), [Source 3](https://web.stanford.edu/~anayebi/projects/CS_239_Final_Project_Writeup.pdf), [Source 4](https://arxiv.org/abs/1804.06264)
 
 <a name="fn5">[5]</a>: [Udacity Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
 
